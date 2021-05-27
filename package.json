@@ -1,7 +1,7 @@
 {
   "name": "github-battle-hooks",
   "version": "1.0.0",
-  "description": "Project for TylerMcGinnis.com's React Hooks course.",
+  "description": "Project for UI.Dev's React Hooks course.",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -43,5 +43,13 @@
     "webpack": "^4.36.1",
     "webpack-cli": "^3.3.6",
     "webpack-dev-server": "^3.7.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onTheDL/github-battle-hooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onTheDL/github-battle-hooks/issues"
+  },
+  "homepage": "https://github.com/onTheDL/github-battle-hooks#readme"
 }
